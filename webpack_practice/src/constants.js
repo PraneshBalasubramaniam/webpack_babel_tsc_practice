@@ -1,4 +1,4 @@
-const val: string = "val";
+const val = "val";
 
 const a = [
   "some string",

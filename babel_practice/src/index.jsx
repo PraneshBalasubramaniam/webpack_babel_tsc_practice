@@ -1,6 +1,7 @@
 import React from 'react';
 import App from './App';
 
+// empty comment
 const Main = () => {
   return (
     <div>
