@@ -1,3 +1,4 @@
 {
-  "task.quickOpen.showAll": true
+  "task.quickOpen.showAll": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
