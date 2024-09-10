@@ -13,6 +13,9 @@ npm i &
 cd ../webpack_babel_tsc_practice
 npm i &
 
+cd ../webpack_babel_tsc_practice_with_seperate_config
+npm i &
+
 cd ../webpack_practice
 npm i
 

@@ -13,6 +13,9 @@ npm run build &
 cd ../webpack_babel_tsc_practice
 npm run build &
 
+cd ../webpack_babel_tsc_practice_with_seperate_config
+npm run build &
+
 cd ../webpack_practice
 npm run build
 
