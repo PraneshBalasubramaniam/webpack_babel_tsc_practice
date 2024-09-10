@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Here we use Webpack, Babel, TSC for bundling and transpiling js, jsx, ts, tsx, scss, etc into normal js, css, html",
   "scripts": {
-    "install_c": "sh ./scripts/install_deps.sh",
+    "install": "sh ./scripts/install_deps.sh",
     "build": "sh ./scripts/build_projects.sh"
   }
 }

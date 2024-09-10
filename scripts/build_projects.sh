@@ -22,4 +22,4 @@ npm run build
 wait
 
 echo
-echo 'Projects built'
+echo 'Projects built...'

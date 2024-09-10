@@ -22,4 +22,4 @@ npm i
 wait
 
 echo
-echo 'Deps installed'
+echo 'Deps installed...'
