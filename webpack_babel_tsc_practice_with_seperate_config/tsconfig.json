@@ -6,7 +6,9 @@
     "esModuleInterop": true, // Allows default imports from CommonJS modules
     "module": "ESNext", // Specifies the module code generation
     "target": "ES5", // Specifies the output language level
-    "removeComments": true
+    "removeComments": true,
+    "jsx": "react",
+    "moduleResolution": "Bundler"
   },
   "include": [
     "src/**/*" // Include all TS files in the src directory
