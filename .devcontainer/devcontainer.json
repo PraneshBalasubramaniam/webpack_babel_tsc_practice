@@ -1,6 +1,5 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "postCreateCommand": "npm i; npm run build",
   "customizations": {
     "vscode": {
       "extensions": [
