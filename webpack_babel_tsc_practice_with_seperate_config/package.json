@@ -1,5 +1,5 @@
 {
-  "name": "babel_tsc_practice",
+  "name": "webpack_babel_tsc_practice_with_seperate_config",
   "version": "1.0.0",
   "scripts": {
     "build": "sh ./scripts/build.sh"
