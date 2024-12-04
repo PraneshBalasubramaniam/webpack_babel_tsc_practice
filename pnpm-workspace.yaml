@@ -1,0 +1,9 @@
+packages:
+  - "tsc_practice"
+  - "babel_practice"
+  - "babel_tsc_practice"
+  - "babel_tsc_practice_with_seperate_config"
+  - "webpack_practice"
+  - "webpack_babel_practice"
+  - "webpack_babel_tsc_practice"
+  - "webpack_babel_tsc_practice_with_seperate_config"
