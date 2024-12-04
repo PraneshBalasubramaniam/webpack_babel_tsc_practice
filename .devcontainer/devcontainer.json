@@ -8,5 +8,6 @@
         "foxundermoon.shell-format"
       ]
     }
-  }
+  },
+  "onCreateCommand": "pnpm i && pnpm build"
 }
